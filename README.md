@@ -4,11 +4,11 @@ In this project, The dataset that we used was’ breast cancer-wisconsin ’, wh
 
 ## **Decision Tree Classifier**
 Decision tree is a prediction model; It represents a mapping between object attributes and object values, Each node in the tree represents an object, and each fork path represents a possible property value, Each leaf is the value of the object represented by the path from the root node to the leaf. Decision tree is the best choice to describe nonlinear relationship.
-# Linear classification model
+## Linear classification model
 Linear classification model is to make classification decisions through the linear combination of features to achieve the purpose of prediction. 
-# LinearSVC
+## LinearSVC
 Support vector machine (SVC) is a class of generalized linear classifiers that classify data binary according to the supervised learning method. Its decision boundary is the maximum margin hyperplane for solving the learning sample. 
-# K Neighbors Classifier
+## K Neighbors Classifier
 k-Nearest Neighbor is: in the eigenspace, if most of the k nearest (that is, the closest) samples near a sample belong to a certain category, the sample also likely belongs to this category
 
 # project process
