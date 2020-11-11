@@ -19,10 +19,13 @@ k-Nearest Neighbor is: in the eigenspace, if most of the k nearest (that is, the
 5. We trained the dataset in five ways, and used the data from the test set to make the prediction and store the data in y_Pred. 
 
 # Interpretation of result
-The following table shows the accuracy and r2-score of several algorithms:
+The following table shows the accuracy and r2-score of several algorithms：
+
+The accuracy of each algorithms:
+
+![avatar](https://github.com/Qiby0513/project1/blob/main/准确率.png)
 
 
-The accuracy of each algorithms:![avatar](https://github.com/Qiby0513/project1/blob/main/准确率.png)
+The r2-score of each algorithms:
 
-
-The r2-score of each algorithms:![avatar](https://github.com/Qiby0513/project1/blob/main/R2.png)
+![avatar](https://github.com/Qiby0513/project1/blob/main/R2.png)
