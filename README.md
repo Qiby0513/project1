@@ -20,9 +20,9 @@ k-Nearest Neighbor is: in the eigenspace, if most of the k nearest (that is, the
 
 # Interpretation of result
 The following table shows the accuracy and r2-score of several algorithms:
+
 The accuracy of each algorithms:
 ![avatar](https://github.com/Qiby0513/project1/blob/main/准确率.png)
 
 
-The r2-score of each algorithms:
-![avatar](https://github.com/Qiby0513/project1/blob/main/R2.png)
+The r2-score of each algorithms:![avatar](https://github.com/Qiby0513/project1/blob/main/R2.png)
