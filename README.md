@@ -1,7 +1,7 @@
 # Project1
-    In this project, The dataset that we used was’ breast cancer-wisconsin ’, which can be download at https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data. There are 698 samples in this data, each samples has 9 features and 1 target variable ‘Class’. A total of five machine learning methods were selected, namely: Decision Tree Classifier, Logistic Regression, SGD Classifier, Linear SVC, K-Neighbors Classifier. 
+In this project, The dataset that we used was’ breast cancer-wisconsin ’, which can be download at https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data. There are 698 samples in this data, each samples has 9 features and 1 target variable ‘Class’. A total of five machine learning methods were selected, namely: Decision Tree Classifier, Logistic Regression, SGD Classifier, Linear SVC, K-Neighbors Classifier. 
 ## **Decision Tree Classifier**
-    Decision tree is a prediction model; It represents a mapping between object attributes and object values, Each node in the tree represents an object, and each fork path represents a possible property value, Each leaf is the value of the object represented by the path from the root node to the leaf. Decision tree is the best choice to describe nonlinear relationship.
+Decision tree is a prediction model; It represents a mapping between object attributes and object values, Each node in the tree represents an object, and each fork path represents a possible property value, Each leaf is the value of the object represented by the path from the root node to the leaf. Decision tree is the best choice to describe nonlinear relationship.
 # 线性分类模型
 线性分类模型是透过特征的线性组合来做出分类决定，以达到预测的目的。
 # 支持向量机
