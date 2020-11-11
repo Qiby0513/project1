@@ -8,7 +8,7 @@ Decision tree is a prediction model; It represents a mapping between object attr
 Linear classification model is to make classification decisions through the linear combination of features to achieve the purpose of prediction. 
 ## LinearSVC
 Support vector machine (SVC) is a class of generalized linear classifiers that classify data binary according to the supervised learning method. Its decision boundary is the maximum margin hyperplane for solving the learning sample. 
-## K Neighbors Classifier
+## K-Neighbors Classifier
 k-Nearest Neighbor is: in the eigenspace, if most of the k nearest (that is, the closest) samples near a sample belong to a certain category, the sample also likely belongs to this category
 
 # project process
